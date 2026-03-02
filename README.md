@@ -20,4 +20,4 @@ Hi there. Im Luis Rosales, A 4th Semester CS student currently at Tec de Monterr
 
 Im passionate about creating AI agents and AI infrastructure in general, especially using langchain or langgraph.
 
-Im currently working o
+
