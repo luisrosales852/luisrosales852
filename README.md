@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi there. Im Luis Rosales, A 4th Semester CS student currently at Tec de Monterrey. Part of RoBorregos HRI team. 
+
+Im passionate about creating AI agents and AI infrastructure in general, especially using langchain or langgraph.
+
+Im currently working o
